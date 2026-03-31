@@ -2,7 +2,10 @@
 
 > A deep learning web app that identifies 10 animal species from photos using transfer learning.  
 > Built with PyTorch and deployed via Streamlit — clean, fast, and portfolio-ready.
+## Live Demo
+This project is deployed as a Streamlit web application.
 
+👉 [Launch the app](https://utilization-of-cnn-models-for-animal-species-detection-y8pfnhp.streamlit.app)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?style=flat-square&logo=pytorch)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-ff4b4b?style=flat-square&logo=streamlit)
